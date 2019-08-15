@@ -1,8 +1,2 @@
-# git-gitTest
-package main
+Testing
 
-import "fmt"
-
-func main() {
-	fmt.Println("Hello, woRLD..")
-}
